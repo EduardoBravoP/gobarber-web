@@ -26,6 +26,18 @@ This app provides a simple way to organize your appointments with the best barbe
 - MongoDB
 
 ## First steps 🐾:
-0. Make sure you have the API running in your computer.
-1. Run `yarn` to install dependencies.
-2. Run `yarn start` to start the application.
+```bash
+# Make sure you have the backend running in your computer.
+# Clone this repository
+$ git clone https://github.com/EduardoBravoP/gobarber-web.git
+
+# Go into the repository
+$ cd gobarber-web
+
+# Install dependencies
+$ yarn
+
+# Run the app (Web)
+$ yarn start
+```
+
